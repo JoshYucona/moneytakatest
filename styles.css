@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+#docList {
+    margin: 20px 0;
+}
+#docContent {
+    width: 100%;
+    height: 300px;
+    margin: 10px 0;
+}
+button {
+    padding: 5px 10px;
+    margin: 5px;
+}
+.doc-item {
+    cursor: pointer;
+    padding: 5px;
+    background: #f0f0f0;
+    margin: 5px 0;
+}
